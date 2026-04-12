@@ -1,2 +1,2 @@
 # Variables in python
-a = 1500
+a = 100
