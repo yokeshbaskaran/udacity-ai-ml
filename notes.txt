@@ -1,3 +1,4 @@
 Python for AI:
 ---
-Learn Python from scratch with AI-themed examples. Variables, loops, functions, and data structures — everything you need to start building AI.
+* Learn Python from scratch with AI-themed examples. 
+* Variables, loops, functions, and data structures — everything you need to start building AI.
