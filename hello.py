@@ -17,7 +17,10 @@ for i in range(10):
 # TypeError: 'type' object is not iterable
 
 # After learning the steps:
-x = 10
+x = [1, 2, 3]
+for i in x:
+    print(i)
+
 for i in range(20):
     i += 1
     print("value of i is :", i)
