@@ -24,3 +24,10 @@ for i in x:
 for i in range(20):
     i += 1
     print("value of i is :", i)
+
+# if else
+x = 8
+if x < 10:
+    print("lower!")
+else:
+    print("Higher")
