@@ -20,12 +20,12 @@ if x < 10:
     print("lower!")
 else:
     print("Higher")
-    
+
     # if else
 x = 8
 if x < 10:
     print("lower!")
-elif:
-    print("Higher")
-else: 
+elif x == 10:
+    print("same")
+else:
     print("nthg")
