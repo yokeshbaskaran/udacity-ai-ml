@@ -24,8 +24,8 @@ else:
     # if else
 x = 8
 if x < 10:
-    print("lower!")
+    print("given number is lower!")
 elif x == 10:
-    print("same")
+    print("number are same")
 else:
-    print("nthg")
+    print("greater")
